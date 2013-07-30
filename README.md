@@ -20,7 +20,7 @@ Download the [Ground Control package](http://jondot.github.io/groundcontrol/grou
 Then, transfer it to your Pi.
 
 ```
-$ scp groundcontrol-v0.0.1.tar.gz pi-user@PI_HOST:
+$ scp groundcontrol-v0.0.3.tar.gz pi-user@PI_HOST:
 ```
 
 or download it directly on your Pi
